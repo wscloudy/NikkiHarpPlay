@@ -6,6 +6,9 @@
 并不是所有midi都能获得完美的效果，因为游戏音阶有限，只能通过简单算法尽力还原。
 
 
+示范视频：https://www.bilibili.com/video/BV1eP7y6FE8S/?spm_id_from=333.1391.0.0&vd_source=b9a6b051cc028a15a5ea7156423f0f3b
+
+
 开发环境：C# .net core 10
 
 
